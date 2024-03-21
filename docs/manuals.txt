@@ -1,0 +1,1 @@
+Manual to Bruker API: https://bruker-api.readthedocs.io/_/downloads/en/latest/pdf/
